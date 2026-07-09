@@ -16,7 +16,7 @@ get byte-identical output.
 sample of the output (`--mood warm --seed 42`, the script's own defaults)
 
 
-## Demo:
+## Demo of pure warm:
 
 https://github.com/user-attachments/assets/24480f23-a493-4535-bd73-ba967a303ead
 
