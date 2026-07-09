@@ -32,11 +32,11 @@ summary of what it generated.
 
 | Flag      | Description                                                                                                   | Default              |
 | --------- | -------------------------------------------------------------------------------------------------------------- | --------------------- |
-| `--mood`  | `calm`, `driving`, `eerie`, `warm`, or a comma-separated mix (see below)                                        | `warm`                |
-| `--seed`  | Integer seed for the melody. Same seed = identical file. Omit to get a random one (it's printed so you can keep it). | random                |
-| `--bpm`   | Tempo in beats per minute                                                                                       | `105`                 |
-| `--bars`  | Total bars in the loop                                                                                          | `8`                   |
-| `--out`   | Output path                                                                                                     | `music_<mood>_<seed>.wav` |
+| `‑‑mood`  | `calm`, `driving`, `eerie`, `warm`, or a comma-separated mix (see below)                                        | `warm`                |
+| `‑‑seed`  | Integer seed for the melody. Same seed = identical file. Omit to get a random one (it's printed so you can keep it). | random                |
+| `‑‑bpm`   | Tempo in beats per minute                                                                                       | `105`                 |
+| `‑‑bars`  | Total bars in the loop                                                                                          | `8`                   |
+| `‑‑out`   | Output path                                                                                                     | `music_<mood>_<seed>.wav` |
 
 ### Examples
 
