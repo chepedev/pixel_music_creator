@@ -14,8 +14,9 @@ get byte-identical output.
 
 [`tracks/music_warm_42.wav`](tracks/music_warm_42.wav) is included as a
 sample of the output (`--mood warm --seed 42`, the script's own defaults)
-— Play here: 
 
+
+## Demo:
 
 https://github.com/user-attachments/assets/24480f23-a493-4535-bd73-ba967a303ead
 
