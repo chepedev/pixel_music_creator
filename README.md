@@ -11,8 +11,9 @@ always produces the exact same file, so you can find a melody you like
 and reproduce it forever — or share the seed with someone else and they'll
 get byte-identical output.
 
-`tracks/music_warm_42.wav` is included as a sample of the output (`--mood
-warm --seed 42`, the script's own defaults).
+[`tracks/music_warm_42.wav`](tracks/music_warm_42.wav) is included as a
+sample of the output (`--mood warm --seed 42`, the script's own defaults)
+— click through to GitHub's file view to play it.
 
 ## Requirements
 
