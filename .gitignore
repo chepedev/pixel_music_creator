@@ -1,0 +1,11 @@
+# OS / editor cruft
+.DS_Store
+__pycache__/
+*.pyc
+
+# Generated audio is reproducible from the script + seed, so only one
+# sample is kept in the repo as a demo. Regenerate the rest locally with
+# make_music.py — see README.md.
+tracks/*
+!tracks/music_warm_42.wav
+fav/
